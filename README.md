@@ -7,10 +7,10 @@ can i write equations?
     - list item 2
 
 1. numbered list
-
 1. item 3
 
 ## h2
 ### h3 this is alot like HTML and LaTeX
 
-
+This is a **bold** line.
+And this is *italic* ok?
